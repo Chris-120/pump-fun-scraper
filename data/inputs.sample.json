@@ -1,0 +1,11 @@
+{
+  "limit": 1000,
+  "offset": 0,
+  "order_by": "created_timestamp",
+  "order_by_direction": "DESC",
+  "includeNsfw": false,
+  "minMarketCap": 1000,
+  "graduatedOnly": true,
+  "export": "json",
+  "output": "outputs/pumpfun_tokens.json"
+}
