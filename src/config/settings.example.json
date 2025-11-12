@@ -1,0 +1,9 @@
+{
+  "use_offline": true,
+  "offline_data_path": "../../data/sample_output.json",
+  "pumpfun_base_url": null,
+  "raydium_base_url": null,
+  "http_timeout_s": 20,
+  "default_export": "json",
+  "default_output": "output.json"
+}
